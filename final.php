@@ -56,16 +56,16 @@ echo "<br />";
 
 
 //insert the server name as a string
-$ser="";
+$ser="localhost";
         
 //insert username as a string
-$user="";
+$user="root";
         
 //insert password as a string
 $pass="";
 
 //insert database name as string
-$db="";
+$db="marco";
         
 $connect = mysqli_connect($ser ,$user ,$pass ,$db) or die("Connection Failed");
                

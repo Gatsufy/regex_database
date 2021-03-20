@@ -23,8 +23,10 @@ session_unset();
     
     
     <body>
+               
+        <a href="sign_up.php">sign up</a>
         
-        <a href="step_1.php">registrati</a>
+        <a href="login.php">log in</a>
         
     </body>
 </html>
